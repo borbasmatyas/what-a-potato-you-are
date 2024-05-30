@@ -2,11 +2,11 @@ _For english version see below_
 
 # Milyen Potátó-e vagy?
 
-Ez a projekt egy egyszerű webalkalmazás, amely véletlenszerűen cserélgeti a különböző "potato" képeket.
+Ez azt tudja, hogy egy DIV-ben számozott fájlnevű képeket cserélget és ez megállítható kattintással vagy szóköz billentyű lenyomásával.
 
 ## Képek
 
-A projektben használt képek az interneten fellelhető GIF képkockái, amelyek szerzői joga nem ismert. Ha a felhasznált képek szerzői jogi védelem alatt állnak, és szeretnéd, hogy eltávolítsam, kérlek jelezd.
+A felhasznált képek az interneten fellelhető GIF képkockái, és nem találtam meg az eredeti alkotót, szóval ha a felhasznált képek szerzői jogi védelem alatt állnak, és szeretnéd, hogy eltávolítsam, kérlek jelezd.
 
 ## Telepítés
 
@@ -20,13 +20,15 @@ Kattints a képre vagy nyomd meg a szóköz billentyűt a képek cserélgetésé
 
 ---
 
+_For Hungarian version see above_
+
 # What Kind of Potato Are You?
 
-This project is a simple web application that randomly swaps between different "potato" images.
+This thing swaps numbered images in a DIV and can be stopped by clicking or pressing the spacebar.
 
 ## Images
 
-The images used in this project are frames from GIFs found on the internet, whose copyright status is unknown. If any of the used images are under copyright protection and you wish to have them removed, please let me know.
+The images used are frames from GIFs found on the internet, and I couldn't find the original creator. So, if any of the used images are under copyright protection and you wish to have them removed, please let me know.
 
 ## Installation
 
@@ -36,3 +38,4 @@ The images used in this project are frames from GIFs found on the internet, whos
 ## Usage
 
 Click on the image or press the spacebar to start or stop the image swapping.
+
