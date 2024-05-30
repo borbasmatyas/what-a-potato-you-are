@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const startSlideshow = () => {
         if (!isRunning) {
-            intervalId = setInterval(changeImage, 100);
+            intervalId = setInterval(changeImage, 100); // The number of milliseconds between each image change
             isRunning = true;
         }
     };

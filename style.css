@@ -27,3 +27,29 @@ div#potato {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+
+footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em 0;
+    position: absolute;
+    bottom: 0;
+    background-color: var(--bg-color); /* Ensure the footer background matches the page */
+}
+
+footer a {
+    display: flex;
+    align-items: center;
+    color: black;
+    text-decoration: none;
+    opacity: 0.5;
+}
+
+footer svg {
+    margin-left: 10px;
+    margin-right: 5px;
+    opacity: 0.5;
+}
